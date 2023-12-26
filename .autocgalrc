@@ -1,5 +1,5 @@
-CGAL_TESTER_NAME="cgaltester"
-CGAL_TESTER="Taylor (GF)"
+CGAL_TESTER="Taylor"
+CGAL_TESTER_NAME="Taylor (GF)"
 CGAL_TESTER_ADDRESS=sebastien.loriot@geometryfactory.com
 CGAL_ROOT=$HOME/CGAL/testsuite
 LOGS_DIR="${CGAL_ROOT}/AUTOTEST_LOGS"
