@@ -8,8 +8,8 @@ BUILD_HOSTS="localhost"
 PROCESSORS_localhost=6
 UPLOAD_RESULT_DESTINATION="cgaltest.geometryfactory.com:incoming"
 CGAL_DATA_DIR=/Users/sloriot/CGAL/testsuite/CGAL-I/data
-COMPILERS_localhost="macOs-Apple_M2-boost_backend-amd64"
-COMPILERS_localhost="$COMPILERS_localhost macOs-Apple_M2-boost_backend-amd64e"
+COMPILERS_localhost="macOS-Apple_M2-boost_backend-arm64"
+COMPILERS_localhost="$COMPILERS_localhost macOS-Apple_M2-boost_backend-arm64e"
 REFERENCE_PLATFORMS_DIR="CGAL-REF"
 
 MYSHELL="/bin/sh -c"
